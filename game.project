@@ -1,2 +1,2 @@
 [library]
-include_dirs = imgui
+include_dirs = netimgui
